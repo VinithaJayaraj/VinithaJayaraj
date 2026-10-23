@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Vinitha Jayaraj 👋
+- 🎓 1st Year BSc Computer Science with AI | AACW
+- 🌱 Learning: Python, GitHub
+- 🚀 Goal: Become an AI Engineer
+- 📫 My first project: my-first-python-project
+
+print("Dream Big, Code Daily!")## Hi there 👋
 
 <!--
 **VinithaJayaraj/VinithaJayaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
